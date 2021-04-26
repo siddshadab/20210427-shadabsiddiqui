@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "Algorithm for BMI calculator for vamstar assessment",
   "main": "index.js",
-  "scripts": {
+  "directories": {
     "test": "test"
+},
+  "scripts": {
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
