@@ -15,16 +15,13 @@
   ],
   "author": "Shadab Siddiqui (https://https://siddshadab.github.io/)",
   "license": "ISC",
- 
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.1.4"
-},
-"dependencies": {},
+  },
+  "dependencies": {},
   "bugs": {
     "url": "https://github.com/siddshadab/20210427-shadabsiddiqui/issues"
   },
   "homepage": "https://github.com/siddshadab/20210427-shadabsiddiqui#readme"
-  
 }
-
